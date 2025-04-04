@@ -11,7 +11,5 @@ This project is a **responsive** and modern interface design built using **HTML,
 
 - ## 🖼️ Project Preview
 
-- 
-
 https://github.com/user-attachments/assets/4c417e01-5cc1-4389-96cf-8be948733a1c
 
